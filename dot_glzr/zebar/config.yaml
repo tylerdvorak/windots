@@ -35,15 +35,15 @@ window/bar:
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
     height: 100%;
-    color: rgb(235 219 178 / 90%);
-    font-family: 'IosevkaTerm Nerd Font Mono', ui-monospace, monospace;
+    color: rgb(198 208 245 / 90%);
+    font-family: '0xProto Nerd Font Regular', ui-monospace, monospace;
     font-size: 14px;
     padding: 4px 24px;
-    border-bottom: 1px solid rgb(235 219 178 / 5%);;
-    background: rgb(40 40 40 / 90%);
+    border-bottom: 1px solid rgb(41 44 60 / 5%);;
+    background: rgb(48 52 70 / 90%);
 
     i {
-      color: rgb(254 128 25 / 95%);
+      color: rgb(115 121 148 / 95%);
       margin-right: 7px;
     }
 
@@ -64,21 +64,24 @@ window/bar:
         align-items: center;
 
         .workspace {
-          background: rgb(235 219 178 / 5%);
+          background: rgb(98 104 128 / 5%);
           margin-right: 4px;
           padding: 4px 8px;
-          color: rgb(235 219 178 / 90%);
+          color: rgb(198 208 245/ 90%);
           border: none;
           border-radius: 2px;
           cursor: pointer;
 
           &.displayed {
-            background: rgb(235 219 178 / 15%);
+            background: rgb(202 158 230 / 15%);
           }
 
-          &.focused,
+          &.focused {
+            background: rgb(202 158 230 / 50%);
+          }
+
           &:hover {
-            background: rgb(254 128 25 / 50%);
+            background: rgb(148 156 187 / 50%);
           }
         }
       providers: ['glazewm']
@@ -120,8 +123,8 @@ window/bar:
       styles: |
         .binding-mode,
         .tiling-direction {
-          background: rgb(235 219 178 / 15%);
-          color: rgb(235 219 178 / 90%);
+          background: rgb(148 156 187 / 15%);
+          color: rgb(140 170 238 / 90%);
           border-radius: 2px;
           padding: 4px 6px;
           margin: 0;
@@ -167,7 +170,7 @@ window/bar:
       providers: ['cpu']
       styles: |
         .high-usage {
-          color: #900029;
+          color: #e78284;
         }
       template: |
         <i class="nf nf-oct-cpu"></i>
