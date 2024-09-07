@@ -125,4 +125,4 @@ Set-Alias -Name zi -Value __zoxide_zi -Option AllScope -Scope Global -Force
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
 #Start Oh My Posh
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/gruvbox.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_frappe.omp.json' | Invoke-Expression
