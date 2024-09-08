@@ -124,5 +124,14 @@ Set-Alias -Name zi -Value __zoxide_zi -Option AllScope -Scope Global -Force
 #
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
 
+#Colors for fzf
+$ENV:FZF_DEFAULT_OPTS=@"
+--color=bg+:#414559,bg:#303446,spinner:#f2d5cf,hl:#e78284
+--color=fg:#c6d0f5,header:#e78284,info:#ca9ee6,pointer:#f2d5cf
+--color=marker:#babbf1,fg+:#c6d0f5,prompt:#ca9ee6,hl+:#e78284
+--color=selected-bg:#51576d
+--multi
+"@
+
 #Start Oh My Posh
 oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_frappe.omp.json' | Invoke-Expression
