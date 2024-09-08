@@ -56,7 +56,7 @@ window/bar:
       styles: |
         margin-right: 20px;
       template: |
-        <i class="nf nf-fa-windows"></i>
+        <i class="nf fa-microsoft"></i>
 
     template/glazewm_workspaces:
       styles: |
