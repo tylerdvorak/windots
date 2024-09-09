@@ -1,0 +1,94 @@
+  2024-09-09T17:22:29.524185Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:22:29.524325Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\Tyler\.bash_history
+C:\Users\Tyler\.gitconfig
+C:\Users\Tyler\.lesshst
+C:\Users\Tyler\.viminfo
+C:\Users\Tyler\.wget-hsts
+C:\Users\Tyler\chezmoi.toml
+C:\Users\Tyler\README.md
+C:\Users\Tyler\rufus.com
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:22:45.179873Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:22:45.179970Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\Tyler\Pictures\2024-08-09_17-58.png
+C:\Users\Tyler\Pictures\687474703a2f2f692e696d6775722e636f6d2f476b496c38466e2e706e67.png
+C:\Users\Tyler\Pictures\adguard.png
+C:\Users\Tyler\Pictures\gruv.jpg
+C:\Users\Tyler\Pictures\mog.jpg
+C:\Users\Tyler\Pictures\plex.png
+C:\Users\Tyler\Pictures\Tyler Dvorak - Shortcut.lnk
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:22:55.595485Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:23:14.379137Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:23:14.379392Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\DumpStack.log
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:23:18.012623Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:23:42.647206Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:23:42.647308Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\Tyler\.bash_history
+C:\Users\Tyler\.gitconfig
+C:\Users\Tyler\.lesshst
+C:\Users\Tyler\.viminfo
+C:\Users\Tyler\.wget-hsts
+C:\Users\Tyler\chezmoi.toml
+C:\Users\Tyler\README.md
+C:\Users\Tyler\rufus.com
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:28:29.380451Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:28:29.380557Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\Tyler\.bash_history
+C:\Users\Tyler\.gitconfig
+C:\Users\Tyler\.lesshst
+C:\Users\Tyler\.viminfo
+C:\Users\Tyler\.wget-hsts
+C:\Users\Tyler\chezmoi.toml
+C:\Users\Tyler\NTUSER.DAT
+C:\Users\Tyler\ntuser.dat.LOG1
+C:\Users\Tyler\ntuser.dat.LOG2
+C:\Users\Tyler\NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+C:\Users\Tyler\NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Tyler\NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Tyler\ntuser.ini
+C:\Users\Tyler\README.md
+C:\Users\Tyler\rufus.com
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:28:53.747314Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:28:53.747449Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\Users\desktop.ini
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-09-09T17:28:54.371405Z ERROR yazi_plugin::utils::log: "Spawn `file` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-09-09T17:28:54.371529Z ERROR yazi_scheduler::prework::prework: Returned 0 when running fetcher `mime` with:
+C:\$WINRE_BACKUP_PARTITION.MARKER
+C:\.GamingRoot
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\pagefile.sys
+C:\swapfile.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
