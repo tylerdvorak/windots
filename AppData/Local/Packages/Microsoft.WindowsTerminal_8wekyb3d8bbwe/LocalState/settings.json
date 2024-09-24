@@ -13,6 +13,14 @@
             "keys": "ctrl+c"
         },
         {
+            "command": "unbound",
+            "keys": "win+sc(41)"
+        },
+        {
+            "command": "unbound",
+            "keys": "ctrl+space"
+        },
+        {
             "command": "paste",
             "id": "User.paste",
             "keys": "ctrl+v"
@@ -26,6 +34,13 @@
             },
             "id": "User.splitPane.A6751878",
             "keys": "alt+shift+d"
+        },
+        {
+            "command": 
+            {
+                "action": "quakeMode"
+            },
+            "id": "User.quakeMode.F1E129A4"
         },
         {
             "command": "find",
@@ -69,7 +84,70 @@
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
-            }
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "commandline": "ssh phoenix@192.168.1.63",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "size": 12
+                },
+                "guid": "{bdfcc7d7-1228-4038-b53e-bdc058e244e4}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "C:\\Users\\Tyler\\Downloads\\mog_icon_05.jpg",
+                "name": "Mog",
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": null
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "commandline": "ssh phoenix@192.168.1.154",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "size": 12
+                },
+                "guid": "{f8b27f1c-441e-453e-a611-f7681b884863}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "C:\\Users\\Tyler\\Downloads\\adguard.png",
+                "name": "AdGuard",
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": null
+            },
+            {
+                "altGrAliasing": true,
+                "antialiasingMode": "grayscale",
+                "closeOnExit": "automatic",
+                "commandline": "ssh phoenix@192.168.1.102",
+                "cursorShape": "bar",
+                "font": 
+                {
+                    "size": 12
+                },
+                "guid": "{f4889dad-11db-4320-88be-03433f0bf52a}",
+                "hidden": false,
+                "historySize": 9001,
+                "icon": "C:\\Users\\Tyler\\Downloads\\plex-icon-512x512-mi6sd8ol.png",
+                "name": "Plex",
+                "padding": "8, 8, 8, 8",
+                "snapOnInput": true,
+                "startingDirectory": null
+            },
+            {
+                "guid": "{db1d8c35-5f1f-5c6e-bf9b-ade86c5c16c4}",
+                "hidden": false,
+                "name": "QMK MSYS",
+                "source": "QMK"
+            },
         ]
     },
     "schemes": 
