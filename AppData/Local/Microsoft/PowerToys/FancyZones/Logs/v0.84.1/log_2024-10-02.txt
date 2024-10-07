@@ -1,0 +1,424 @@
+[2024-10-02 16:46:20.075336] [p-248] [t-6512] [info] fancyzones logger is initialized
+[2024-10-02 16:46:20.119869] [p-248] [t-6512] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-02 16:46:20.119930] [p-248] [t-7272] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-02 16:46:20.120396] [p-248] [t-6512] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-02 16:46:20.120509] [p-248] [t-6512] [info] layout-templates.json file is missing or malformed
+[2024-10-02 16:46:20.120571] [p-248] [t-6512] [info] custom-layouts.json file is missing or malformed
+[2024-10-02 16:46:20.120630] [p-248] [t-6512] [info] layout-hotkeys.json file is missing or malformed
+[2024-10-02 16:46:20.135389] [p-248] [t-6512] [info] default-layouts.json file is missing or malformed
+[2024-10-02 16:46:20.137096] [p-248] [t-7272] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-02 16:46:20.137236] [p-248] [t-7272] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-02 16:46:20.138650] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 16:46:20.139086] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 16:46:20.269569] [p-248] [t-6512] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-02 16:46:20.273771] [p-248] [t-6512] [info] Serial number: 16843009
+[2024-10-02 16:46:20.274552] [p-248] [t-6512] [info] Display changed, type: Initialization
+[2024-10-02 16:46:20.274835] [p-248] [t-6512] [debug] Update work areas, update windows positions: false
+[2024-10-02 16:46:20.275047] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 16:46:20.275371] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 16:46:20.277693] [p-248] [t-6512] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-02 16:46:20.289892] [p-248] [t-6512] [info] Serial number: 16843009
+[2024-10-02 16:46:20.337029] [p-248] [t-6512] [trace] Monitor was added or removed
+[2024-10-02 16:46:20.352869] [p-248] [t-6512] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-02 16:46:20.354748] [p-248] [t-6512] [info] Creating new ZonesOverlay window, hWnd = 0x2027a
+[2024-10-02 16:46:20.446895] [p-248] [t-6512] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-02 16:46:31.187134] [p-248] [t-6512] [info] Display changed, type: DisplayChange
+[2024-10-02 16:46:31.187210] [p-248] [t-6512] [debug] Update work areas, update windows positions: true
+[2024-10-02 16:46:31.187269] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 16:46:31.199459] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 16:46:31.204840] [p-248] [t-6512] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-02 16:46:31.214971] [p-248] [t-6512] [info] Serial number: 16843009
+[2024-10-02 20:51:05.106383] [p-248] [t-6512] [info] Display changed, type: DisplayChange
+[2024-10-02 20:51:05.106450] [p-248] [t-6512] [debug] Update work areas, update windows positions: true
+[2024-10-02 20:51:05.106495] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 20:51:05.106738] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.225997] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.280906] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.280939] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.330975] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.331012] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.375965] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.376038] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.419286] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.419314] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.449853] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.449879] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.481302] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.481335] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.512284] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.512320] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.543727] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.543742] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.575270] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.575284] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.606240] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.606274] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.636626] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.636654] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.668123] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.668170] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.700303] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.700317] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.732229] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.732265] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.764507] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.764529] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.795940] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.796018] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.828734] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.828808] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.859444] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.859552] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.890576] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.890649] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.921251] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.921270] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.952432] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.952536] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:05.984009] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:05.984103] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.015351] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.015490] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.046127] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.046234] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.092978] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.093090] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.124481] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.124565] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.155305] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.155382] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.186597] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.186668] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.218526] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.218662] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.249798] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.249893] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.280860] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.280971] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.312293] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.312394] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.343964] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.344081] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.375108] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.375263] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.406370] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.406519] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.437773] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.437796] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.468543] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.468562] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.499869] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.499910] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.530765] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.530828] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.561937] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.562046] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.592504] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.592613] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.623709] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.623819] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.654742] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.654956] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.685753] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.685850] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.717416] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.717503] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.748919] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.749055] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.794520] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.794625] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.826098] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.826204] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.857275] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.857390] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.888680] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.888766] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.920391] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.920497] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.951724] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.951812] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:06.982576] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:06.982730] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.013444] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.013544] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.044803] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.044910] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.076552] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.076658] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.107981] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.108078] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.139734] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.139790] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.170480] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.170540] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.202711] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.202817] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.234833] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.234993] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.265366] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.265455] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.297000] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.297103] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.328601] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.328664] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.359885] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.359921] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.392259] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.392299] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.424238] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.424263] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.455521] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.455550] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.486577] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.486591] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.518321] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.518343] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.549901] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.549939] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.581252] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.581301] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.613506] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.613595] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.644662] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.644806] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.675597] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.675732] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.706294] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.706381] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.738897] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.739032] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.770044] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.770056] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.801749] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:07.801782] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:07.866392] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#GSM81CD#1&8713bca&0&UID0#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 20:51:07.866421] [p-248] [t-6512] [trace] DeviceId changed
+[2024-10-02 20:51:07.866432] [p-248] [t-6512] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2027a
+[2024-10-02 20:51:07.872509] [p-248] [t-6512] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-02 20:51:07.872564] [p-248] [t-6512] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2027a
+[2024-10-02 20:51:08.076109] [p-248] [t-6512] [info] Initialize layout on GSM81CD_1&8713bca&0&UID0_6__{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1080
+[2024-10-02 20:51:08.146559] [p-248] [t-6512] [info] Display changed, type: DisplayChange
+[2024-10-02 20:51:08.146585] [p-248] [t-6512] [debug] Update work areas, update windows positions: true
+[2024-10-02 20:51:08.146617] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 20:51:08.146747] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#GSM81CD#1&8713bca&0&UID0#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 20:51:08.508006] [p-248] [t-6512] [info] Display changed, type: DisplayChange
+[2024-10-02 20:51:08.508030] [p-248] [t-6512] [debug] Update work areas, update windows positions: true
+[2024-10-02 20:51:08.508072] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 20:51:08.508360] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.512626] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.556514] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.556539] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.588128] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.588156] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.619851] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.619882] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.651558] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.651583] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.682510] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.682531] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.714257] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.714293] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.745841] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.745870] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.777799] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.777823] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.809308] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.809330] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.841447] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.841470] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.872265] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.872287] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.904647] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.904667] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.935858] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.935879] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.967881] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.967899] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:08.998976] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:08.998995] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.030573] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.030596] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.061491] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.061515] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.093491] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.093524] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.124492] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.124514] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.156353] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.156381] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.187717] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.187745] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.218820] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.218853] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.250420] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.250452] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.282500] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.282522] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.314326] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.314347] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.345737] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.345766] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.376820] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.376850] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.407793] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.407818] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.438853] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.438883] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.469579] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.469604] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.501049] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.501098] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.531801] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.531822] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.563190] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.563216] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.594192] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.594214] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.625172] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.625202] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.656716] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.656735] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.687791] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.687811] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.718803] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.718845] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.750569] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.750592] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.782481] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.782505] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.815548] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.815576] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.847526] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.847546] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.879097] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.879121] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.909799] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.909817] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.940799] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.940848] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:09.972459] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:09.972487] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.003432] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.003455] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.034196] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.034219] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.065677] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.065693] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.096809] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.096830] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.127747] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.127782] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.158821] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.158863] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.189841] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.189877] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.221112] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.221140] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.251983] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.252009] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.283055] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.283079] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.314113] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.314133] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.345628] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.345657] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.377228] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.377250] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.408108] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.408126] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.438664] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.438683] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.468838] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.468857] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.500000] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.500024] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.531014] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.531040] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.561577] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.561599] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.592573] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.592598] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.623530] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.623551] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.655129] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.655156] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.686137] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.686158] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.717110] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.717129] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.749172] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.749201] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.780188] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.780212] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.811254] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.811276] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.842234] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.842253] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.872801] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.872822] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.903763] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.903782] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.934741] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.934760] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.966407] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.966441] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:10.997319] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:10.997338] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.029326] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.029346] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.060936] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.060956] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.091497] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.091517] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.122473] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.122495] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.153944] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.153971] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.185396] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.185408] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.216080] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.216108] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.247654] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.247674] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.278695] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.278712] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.309920] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.309934] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.340763] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.340779] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.372397] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.372446] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.402863] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.402883] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.433539] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.433557] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.465095] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.465112] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.496111] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.496127] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.527173] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.527189] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.558630] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.558645] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.589652] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.589667] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.620640] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.620654] [p-248] [t-6512] [info] Retry display identification
+[2024-10-02 20:51:11.652216] [p-248] [t-6512] [error] Failed to get display number from WinDisc
+[2024-10-02 20:51:11.652232] [p-248] [t-6512] [trace] DeviceId changed
+[2024-10-02 20:51:11.652238] [p-248] [t-6512] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2027a
+[2024-10-02 20:51:11.653004] [p-248] [t-6512] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-02 20:51:11.653037] [p-248] [t-6512] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2027a
+[2024-10-02 20:51:12.628929] [p-248] [t-6512] [info] Initialize layout on WinDisc__0__{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1080
+[2024-10-02 20:51:12.628958] [p-248] [t-6512] [info] Set default layout on WinDisc__0__{00000000-0000-0000-0000-000000000000}
+[2024-10-02 20:51:12.721710] [p-248] [t-6512] [info] Display changed, type: DisplayChange
+[2024-10-02 20:51:12.721740] [p-248] [t-6512] [debug] Update work areas, update windows positions: true
+[2024-10-02 20:51:12.721796] [p-248] [t-6512] [info] Identifying monitors
+[2024-10-02 20:51:12.722054] [p-248] [t-6512] [info] Get display device for display \\.\DISPLAY7 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-02 20:51:12.728596] [p-248] [t-6512] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-02 20:51:12.728614] [p-248] [t-6512] [info] Serial number: 16843009
+[2024-10-02 20:51:12.728842] [p-248] [t-6512] [trace] DeviceId changed
+[2024-10-02 20:51:12.728868] [p-248] [t-6512] [info] Freeing ZonesOverlay window into pool, hWnd = 0x2027a
+[2024-10-02 20:51:12.744480] [p-248] [t-6512] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-02 20:51:12.744612] [p-248] [t-6512] [info] Reusing ZonesOverlay window from pool, hWnd = 0x2027a
+[2024-10-02 20:51:12.848777] [p-248] [t-6512] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_7_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160

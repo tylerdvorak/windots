@@ -1,0 +1,36 @@
+[2024-09-25 17:47:06.473167] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 17:47:06.473556] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 17:47:06.473603] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 17:47:06.473817] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 17:47:06.602041] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 17:47:06.602107] [p-9596] [t-9600] [info] Serial number: 16843009
+[2024-09-25 17:48:20.324784] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 17:48:20.324837] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 17:48:20.324893] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 17:48:20.325156] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 17:48:20.447315] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 17:48:20.447345] [p-9596] [t-9600] [info] Serial number: 16843009
+[2024-09-25 18:00:02.365603] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 18:00:02.365664] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 18:00:02.365721] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 18:00:02.365936] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 18:00:02.651428] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 18:00:02.651462] [p-9596] [t-9600] [info] Serial number: 16843009
+[2024-09-25 18:00:05.704190] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 18:00:05.704215] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 18:00:05.704258] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 18:00:05.704484] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 18:00:05.708756] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 18:00:05.708796] [p-9596] [t-9600] [info] Serial number: 16843009
+[2024-09-25 20:46:22.478230] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 20:46:22.478276] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 20:46:22.478313] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 20:46:22.478451] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 20:46:22.605397] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 20:46:22.605429] [p-9596] [t-9600] [info] Serial number: 16843009
+[2024-09-25 20:46:34.248348] [p-9596] [t-9600] [info] Display changed, type: DisplayChange
+[2024-09-25 20:46:34.248371] [p-9596] [t-9600] [debug] Update work areas, update windows positions: true
+[2024-09-25 20:46:34.248415] [p-9596] [t-9600] [info] Identifying monitors
+[2024-09-25 20:46:34.248554] [p-9596] [t-9600] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-25 20:46:34.327596] [p-9596] [t-9600] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-25 20:46:34.327630] [p-9596] [t-9600] [info] Serial number: 16843009

@@ -1,0 +1,6 @@
+[2024-09-18 19:14:39.312602] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-18 19:14:39.313990] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-18 19:14:39.314031] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-18 19:14:39.377270] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-18 19:14:39.625301] [p-9076] [t-9080] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-18 19:14:39.625362] [p-9076] [t-9080] [info] Serial number: 16843009

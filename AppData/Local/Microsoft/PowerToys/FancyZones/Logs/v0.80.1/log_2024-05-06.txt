@@ -1,0 +1,539 @@
+[2024-05-06 07:21:23.080446] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 07:21:23.081761] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 07:21:23.081788] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 07:21:23.081941] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.432776] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 07:21:23.432846] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 07:21:23.433529] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.476910] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.476943] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.508094] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.508138] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.538512] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.538546] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.569953] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.570039] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.601749] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.601776] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.632828] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.632854] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.664141] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.664174] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.695054] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.695090] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.726083] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.726135] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.756880] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.756926] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.787765] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.787794] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.818725] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.818754] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.850094] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.850123] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.881562] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.881593] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.913298] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.913326] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.944348] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.944377] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:23.975604] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:23.975637] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.007086] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.007116] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.038458] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.038532] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.069396] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.069424] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.100310] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.100339] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.145765] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.145789] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.177045] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.177071] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.207920] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.207950] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.239839] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.239893] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.270916] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.270948] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.302263] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.302306] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.334177] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.334204] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.364600] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.364623] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.396512] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.396537] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.441593] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.441612] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.472769] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.472798] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.504360] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.504387] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.534649] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.534704] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.566114] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.566142] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.597504] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.597544] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.628717] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.628748] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.660153] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.660183] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.691113] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.691138] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.721996] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.722032] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.753906] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.754081] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.785274] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.785301] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.815485] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.815507] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.846945] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.846972] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.878373] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.878402] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.909901] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.909923] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.940844] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.940866] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:24.971517] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:24.971546] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.002929] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.002952] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.034910] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.034948] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.066170] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.066196] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.098089] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.098118] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.129962] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.129989] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.160392] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.160413] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.190748] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.190776] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.222158] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.222183] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.254043] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.254068] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.285444] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.285470] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.317379] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.317403] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.348731] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.348758] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.380670] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.380709] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.412660] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.412702] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.443503] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.443531] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.473956] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.473983] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.505249] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.505312] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.536805] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.536892] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.568749] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.568777] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.600136] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.600166] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.631132] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.631160] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.662099] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.662124] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.694020] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.694046] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.725090] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.725118] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.756207] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.756229] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.787173] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.787196] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.819199] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.819220] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.850605] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.850628] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.882170] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.882192] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.913287] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.913310] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.945728] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.945754] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:25.977212] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:25.977239] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.008704] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.008729] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.040553] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.040575] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.071965] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.071988] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.103907] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.103930] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.135744] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.135771] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.166653] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.166679] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.197604] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.197628] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.228554] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.228574] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.259501] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.259548] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.290789] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.290817] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.322419] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.322441] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.367700] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.367724] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.398046] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.398067] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.428492] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.428513] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.459368] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.459423] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.490772] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.490795] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.521123] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.521147] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.551959] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.551986] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.582212] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.582237] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 07:21:26.613073] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 07:21:26.613100] [p-10004] [t-10016] [trace] DeviceId changed
+[2024-05-06 07:21:26.613107] [p-10004] [t-10016] [info] Freeing ZonesOverlay window into pool, hWnd = 0x40388
+[2024-05-06 07:21:26.622597] [p-10004] [t-10016] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.622639] [p-10004] [t-10016] [info] Reusing ZonesOverlay window from pool, hWnd = 0x40388
+[2024-05-06 07:21:26.675492] [p-10004] [t-10016] [info] Initialize layout on WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 2560x1600
+[2024-05-06 07:21:26.678901] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.678929] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.678946] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.678963] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.678981] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679011] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679029] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679046] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679061] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679078] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679093] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:26.679119] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: WinDisc__0__{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.027905] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 07:21:33.027939] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 07:21:33.027956] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 07:21:33.030967] [p-10004] [t-10016] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-06 07:21:33.033608] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 07:21:33.033624] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 07:21:33.033820] [p-10004] [t-10016] [trace] DeviceId changed
+[2024-05-06 07:21:33.033834] [p-10004] [t-10016] [info] Freeing ZonesOverlay window into pool, hWnd = 0x40388
+[2024-05-06 07:21:33.261030] [p-10004] [t-10016] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.267403] [p-10004] [t-10016] [info] Reusing ZonesOverlay window from pool, hWnd = 0x40388
+[2024-05-06 07:21:33.754701] [p-10004] [t-10016] [info] Initialize layout on GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 3840x2160
+[2024-05-06 07:21:33.784071] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.784093] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.784490] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.785470] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.785528] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.785585] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.785644] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.785655] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.786105] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.787807] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.787825] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.788126] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.789278] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.789336] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.789447] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.789921] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.792995] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.795760] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.799060] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 07:21:33.799079] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 07:21:33.799095] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 07:21:33.799256] [p-10004] [t-10016] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-06 07:21:33.801782] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 07:21:33.801805] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 07:21:33.848344] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.848367] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.849001] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.850573] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.850747] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.850906] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.851005] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.851021] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.851418] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.853232] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.853252] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.854423] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.855777] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.855847] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.856252] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.856614] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.860035] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.863502] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 07:21:33.942741] [p-10004] [t-10016] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 07:21:33.942769] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:01.024424] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 20:40:01.024448] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 20:40:01.024467] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 20:40:01.024536] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.376589] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 20:40:01.376645] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 20:40:01.376989] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.413665] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.413703] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.444468] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.444500] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.476342] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.476378] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.521870] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.521892] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.554552] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.554575] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.599522] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.599546] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.630480] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.630508] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.675510] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.675578] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.706886] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.706913] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.737833] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.737855] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.769666] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.769688] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.800844] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.800865] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.845561] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.845587] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.876958] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.877001] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.908461] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.908485] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.938771] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.938804] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:01.969957] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:01.970001] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.000884] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.000911] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.031876] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.031923] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.063189] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.063224] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.095228] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.095250] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.126200] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.126226] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.158057] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.158086] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.189127] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.189154] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.221004] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.221030] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.252497] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.252521] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.284390] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.284420] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.315777] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.315817] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.346728] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.346761] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.377576] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.377609] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.408498] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.408543] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.440489] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.440515] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.472333] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.472365] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.503658] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.503674] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.535580] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.535609] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.566515] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.566539] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.598094] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.598121] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.629283] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.629311] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.660424] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.660454] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.692327] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.692361] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.723703] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.723728] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.755618] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.755644] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.786339] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.786373] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.817600] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.817624] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.849058] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.849081] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.880913] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.880941] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.913494] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.913514] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.944895] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.944923] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:02.976854] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:02.976879] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.008234] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.008257] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.053129] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.053152] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.083987] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.084008] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.114314] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.114337] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.159649] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.159677] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.191528] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.191567] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.223271] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.223293] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.253631] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.253668] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.285161] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.285184] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.316354] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.316379] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.347237] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.347260] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.378524] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.378548] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.409414] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.409436] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.439894] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.439916] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.470721] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.470744] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.500969] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.500994] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.532541] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.532567] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.564633] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.564682] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.610419] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.610447] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.641811] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.641834] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.673238] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.673259] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.705113] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.705150] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.736295] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.736321] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.768177] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.768196] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.798522] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.798544] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.830425] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.830447] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.861564] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.861588] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.893048] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.893071] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.924461] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.924485] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.956004] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.956031] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:03.987858] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:03.987889] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.019251] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.019276] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.064126] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.064150] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.109637] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.109664] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.140611] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.140644] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.172362] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.172391] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.204343] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.204367] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.235405] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.235434] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.266888] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.266909] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.298717] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.298740] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:04.330605] [p-10004] [t-10016] [error] Failed to get display number from WinDisc
+[2024-05-06 20:40:04.330636] [p-10004] [t-10016] [info] Retry display identification
+[2024-05-06 20:40:05.037063] [p-10004] [t-10016] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-06 20:40:05.037373] [p-10004] [t-10016] [trace] WorkArea size changed
+[2024-05-06 20:40:05.037388] [p-10004] [t-10016] [info] Freeing ZonesOverlay window into pool, hWnd = 0x40388
+[2024-05-06 20:40:06.296439] [p-10004] [t-10016] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:06.303239] [p-10004] [t-10016] [info] Reusing ZonesOverlay window from pool, hWnd = 0x40388
+[2024-05-06 20:40:07.387231] [p-10004] [t-10016] [info] Initialize layout on GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 3840x2160
+[2024-05-06 20:40:07.410366] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.410385] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.412034] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.413260] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.413358] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.413420] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.413644] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.413654] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.413882] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.420741] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.420758] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.420991] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.422248] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.422324] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.422374] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.422657] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.424684] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.426901] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.452717] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 20:40:07.452760] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 20:40:07.452795] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 20:40:07.453192] [p-10004] [t-10016] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-06 20:40:07.456621] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 20:40:07.456647] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 20:40:07.478816] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.478875] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.479129] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.481151] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.481589] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.481669] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.481753] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.481769] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.482512] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.484211] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.484234] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.485529] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.488658] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.488917] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.489430] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.490350] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.492794] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.496328] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.500242] [p-10004] [t-10016] [info] Display changed, type: DisplayChange
+[2024-05-06 20:40:07.500271] [p-10004] [t-10016] [debug] Update work areas, update windows positions: true
+[2024-05-06 20:40:07.500305] [p-10004] [t-10016] [info] Identifying monitors
+[2024-05-06 20:40:07.500473] [p-10004] [t-10016] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-06 20:40:07.506611] [p-10004] [t-10016] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-06 20:40:07.506645] [p-10004] [t-10016] [info] Serial number: 16843009
+[2024-05-06 20:40:07.514608] [p-10004] [t-10016] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.514636] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.514770] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.517406] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.517501] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.517571] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.517606] [p-10004] [t-10016] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.517614] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.517731] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.520749] [p-10004] [t-10016] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.520823] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.520973] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.522695] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.522739] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.522763] [p-10004] [t-10016] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.522862] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.525492] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.529854] [p-10004] [t-10016] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-06 20:40:07.539106] [p-10004] [t-10016] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-06 20:40:07.539137] [p-10004] [t-10016] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}

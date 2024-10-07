@@ -1,0 +1,1288 @@
+[2024-05-04 08:26:16.896247] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 08:26:16.896648] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 08:26:16.896674] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 08:26:16.896977] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.092435] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 08:26:17.092474] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 08:26:17.092667] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.137628] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.137653] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.182232] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.182266] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.218179] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.218206] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.259704] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.259802] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.290728] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.290764] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.322995] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.323038] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.355855] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.355905] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.401191] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.401253] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.446762] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.446798] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.478024] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.478076] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.508962] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.508991] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.540435] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.540466] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.570915] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.570940] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.602754] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.602778] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.634245] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.634302] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.665094] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.665156] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.696626] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.696729] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.727474] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.727506] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.758333] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.758409] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.789286] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.789320] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.820163] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.820197] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.852183] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.852235] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.883548] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.883573] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.915395] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.915426] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.945770] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.945804] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:17.976203] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:17.976231] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.007144] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.007185] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.038015] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.038043] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.070121] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.070145] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.101894] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.101922] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.132904] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.132946] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.163877] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.163916] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.195675] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.195716] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.226549] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.226588] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.258464] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.258505] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.290501] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.290540] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.326315] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.326364] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.368227] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.368262] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.400023] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.400058] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.430799] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.430832] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.461377] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.461441] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.492881] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.492899] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.524227] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.524261] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.556180] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.556207] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.586714] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.586736] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.631705] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.631734] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.662672] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.662694] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.707752] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.707778] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.738116] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.738140] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.768297] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.768317] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.800298] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.800322] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.832276] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.832298] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.863189] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.863209] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.894893] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.894926] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.926077] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.926109] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.957316] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.957341] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:18.988234] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:18.988255] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.019205] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.019253] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.050594] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.050615] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.082097] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.082123] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.113470] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.113493] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.143753] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.143777] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.188687] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.188706] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.219593] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.219617] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.250028] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.250053] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.281213] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.281237] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.313112] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.313138] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.344869] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.344898] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.375653] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.375681] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.406080] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.406106] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.437146] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.437167] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.468268] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.468290] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.499743] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.499788] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.544594] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.544627] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.589416] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.589438] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.620928] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.620955] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.652224] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.652258] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.684126] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.684152] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.729515] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.729544] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.774343] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.774375] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.804851] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.804874] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.836267] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.836298] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.867688] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.867716] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.898582] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.898603] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.928946] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.928969] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:19.973829] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:19.973857] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.004714] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.004743] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.035427] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.035505] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.065893] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.065915] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.096709] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.096732] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.128155] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.128184] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.159088] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.159125] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.189951] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.189977] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.220568] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 08:26:20.220596] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 08:26:20.974530] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 08:26:20.974634] [p-12256] [t-12260] [trace] WorkArea size changed
+[2024-05-04 08:26:20.974650] [p-12256] [t-12260] [info] Freeing ZonesOverlay window into pool, hWnd = 0x203fc
+[2024-05-04 08:26:21.406737] [p-12256] [t-12260] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:21.408648] [p-12256] [t-12260] [info] Reusing ZonesOverlay window from pool, hWnd = 0x203fc
+[2024-05-04 08:26:23.311553] [p-12256] [t-12260] [info] Initialize layout on GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 3840x2160
+[2024-05-04 08:26:23.332473] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.332502] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.332812] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.334392] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.334408] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.334766] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.335960] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.335974] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.336233] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.337495] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337510] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337553] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337558] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337615] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337627] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337683] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337695] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.337908] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.339575] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.339592] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.339974] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.343148] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.343175] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.343865] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:23.794962] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795131] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795140] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795172] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795177] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795202] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:23.795207] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.247534] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.247632] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.248661] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.249447] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.250551] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.251296] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.252254] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.255339] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 08:26:24.255360] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 08:26:24.255383] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 08:26:24.255519] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 08:26:24.258930] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 08:26:24.258959] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 08:26:24.262851] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.262873] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.262939] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.264037] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.264049] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.264088] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.264895] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.264904] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.264962] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.265790] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265805] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265835] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265842] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265867] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265874] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265899] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265905] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.265957] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.267100] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.267112] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.267164] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.268330] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.268344] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.268400] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:24.715054] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715119] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715130] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715158] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715164] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715186] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:24.715192] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.170094] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.170198] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.171265] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.172072] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.172873] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.173626] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.174412] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.175122] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 08:26:25.175131] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 08:26:25.175155] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 08:26:25.175253] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 08:26:25.177297] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 08:26:25.177308] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 08:26:25.180937] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.180948] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.181008] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.181780] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.181788] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.181826] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.182548] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.182557] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.182613] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.183290] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183298] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183318] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183323] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183341] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183346] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183363] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183368] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.183404] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.184093] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.184101] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.184137] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.184815] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.184823] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.184871] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:25.630181] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630251] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630264] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630285] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630290] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630308] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:25.630312] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:26.082217] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:26.082341] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.083482] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.084231] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.084992] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.085798] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.086579] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 08:26:26.087746] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 08:26:26.087756] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:42.106180] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 17:57:42.106200] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 17:57:42.106216] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 17:57:42.106285] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.117675] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 17:57:42.117696] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 17:57:42.117852] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.151392] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.151414] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.204497] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.204527] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.247804] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.247827] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.296597] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.296621] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.337382] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.337411] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.368735] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.368768] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.413803] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.413832] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.445030] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.445069] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.476529] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.476568] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.507307] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.507343] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.540832] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.540865] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.585327] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.585354] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.616675] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.616722] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.648012] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.648046] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.692430] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.692473] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.722878] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.722913] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.753283] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.753312] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.785150] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.785183] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.816067] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.816095] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.847500] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.847527] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.878631] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.878667] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.910483] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.910520] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.955343] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.955376] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:42.986453] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:42.986480] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.017709] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.017741] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.049092] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.049121] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.081205] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.081230] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.112534] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.112573] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.143564] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.143604] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.174526] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.174561] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.205882] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.205917] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.237534] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.237575] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.274637] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.274679] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.315103] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.315132] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.346649] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.346675] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.377874] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.377901] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.408838] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.408866] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.439223] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.439279] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.471050] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.471079] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.502459] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.502489] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.533856] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.533887] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.565286] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.565318] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.596015] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.596048] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.626976] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.627012] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.658830] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.658863] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.689747] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.689770] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.720154] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.720175] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.751674] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.751702] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.783120] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.783141] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.814318] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.814344] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.845549] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.845578] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.876255] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.876282] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.906565] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.906588] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.937941] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.937968] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:43.982706] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:43.982753] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.014336] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.014364] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.045311] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.045338] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.090160] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.090192] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.120631] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.120656] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.151508] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.151533] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.196404] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.196430] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.227945] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.227966] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.259836] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.259864] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.290422] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.290447] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.321667] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.321712] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.352749] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.352776] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.397611] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.397641] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.428432] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.428455] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.459182] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.459205] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.489600] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.489623] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.534962] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.534993] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.566498] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.566520] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.597835] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.597867] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.629318] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.629349] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.660762] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.660789] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.692194] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.692220] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.723658] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.723680] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.755511] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.755534] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.786396] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.786427] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.817813] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.817843] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.849176] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.849198] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.880326] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.880349] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.911463] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.911487] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.956905] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.956934] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:44.988769] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:44.988801] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.020186] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.020211] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.051409] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.051432] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.096221] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.096254] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.126558] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.126587] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.171936] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.171961] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.203838] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.203862] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.235345] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 17:57:45.235368] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 17:57:45.968945] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 17:57:45.968973] [p-12256] [t-12260] [trace] WorkArea size changed
+[2024-05-04 17:57:45.968979] [p-12256] [t-12260] [info] Freeing ZonesOverlay window into pool, hWnd = 0x203fc
+[2024-05-04 17:57:46.450223] [p-12256] [t-12260] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.451872] [p-12256] [t-12260] [info] Reusing ZonesOverlay window from pool, hWnd = 0x203fc
+[2024-05-04 17:57:46.876808] [p-12256] [t-12260] [info] Initialize layout on GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 3840x2160
+[2024-05-04 17:57:46.927393] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.927412] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.927700] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:46.929128] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.929147] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.929548] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:46.936142] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.936162] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.941678] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:46.942963] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.942977] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943069] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943081] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943217] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943225] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943341] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943354] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.943845] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:46.944814] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.944825] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.945070] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:46.946273] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.946285] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:46.946812] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.131249] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131302] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131347] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131370] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131374] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131392] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.131396] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.583786] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.583874] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.584862] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.586060] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.586830] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.588138] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.589596] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.593437] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 17:57:48.593462] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 17:57:48.593486] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 17:57:48.593617] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 17:57:48.596673] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 17:57:48.596710] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 17:57:48.600931] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.600953] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.601017] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.601962] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.601973] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.602011] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.602887] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.602900] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.602974] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.603973] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.603987] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604017] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604024] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604049] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604055] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604079] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604085] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.604137] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.605189] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.605200] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.605237] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:48.605984] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.605994] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:48.606032] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.043839] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.043911] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.043924] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.044008] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.044044] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.044067] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.044072] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.490465] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.490597] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.491687] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.492517] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.493280] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.494055] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.494818] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.495537] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 17:57:49.495546] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 17:57:49.495570] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 17:57:49.495697] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 17:57:49.497775] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 17:57:49.497788] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 17:57:49.501383] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.501394] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.501452] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.502199] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.502207] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.502243] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.502955] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.502963] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503027] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.503733] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503742] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503760] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503764] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503780] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503785] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503801] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503806] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.503840] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.504522] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.504530] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.504565] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.505210] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.505217] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.505252] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:49.957351] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957402] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957408] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957466] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957480] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957513] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:49.957552] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:50.403884] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:50.404002] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.405056] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.405968] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.406784] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.407568] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.408313] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:57:50.409476] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:57:50.409486] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 17:58:52.071637] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 17:58:52.071704] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 17:58:52.075841] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 17:58:52.075906] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 17:58:54.488739] [p-12256] [t-12260] [info] Remove app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 17:58:55.299802] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:40.288218] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 18:03:40.288278] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 18:03:47.633598] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:47.633617] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.318313] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 18:03:48.318331] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 18:03:48.318349] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 18:03:48.318494] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 18:03:48.324008] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 18:03:48.324028] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 18:03:48.408773] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.408793] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.409259] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.412258] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.412272] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.412668] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.413811] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.413823] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.413923] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.413934] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418234] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418246] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418326] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418338] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418459] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418470] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.418795] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.419911] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.419926] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.420516] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.421708] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.421722] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.422313] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.423751] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.423764] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.424723] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.426683] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.426702] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.426872] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.426880] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.427032] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.427046] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:48.427587] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.430740] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.433840] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.440236] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.445189] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.449702] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:48.462908] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.555175] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 18:03:50.555196] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 18:03:50.555212] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 18:03:50.555311] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 18:03:50.557684] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 18:03:50.557700] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 18:03:50.629723] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.629740] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.630157] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.631294] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.631306] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.631526] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.632763] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.632776] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.632872] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.632884] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633574] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633587] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633651] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633664] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633778] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.633789] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.634274] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.635297] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.635308] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.635859] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.636802] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.636814] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.637163] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.638309] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.638322] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.639099] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.640106] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.640116] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.648032] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.648045] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.648101] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.648112] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:50.659884] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.664436] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.670991] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.675660] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.684597] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.687685] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:50.695582] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 18:03:56.231923] [p-12256] [t-12260] [info] Get Plex.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:03:56.231963] [p-12256] [t-12260] [info] Get Plex.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 18:36:57.634789] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 18:36:57.634866] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 18:36:57.635265] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 18:36:57.635339] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 21:06:50.096522] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:06:50.096547] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:06:50.096570] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:06:50.096682] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.423889] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:06:50.423924] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:06:50.424229] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.466245] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.466290] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.516919] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.516948] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.556427] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.556492] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.587130] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.587167] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.618753] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.618806] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.649749] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.649918] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.680529] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.680566] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.711049] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.711153] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.755899] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.755930] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.787406] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.787443] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.818857] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.818908] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.849773] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.849819] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.881131] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.881165] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.912547] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.912585] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.943433] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.943466] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:50.974226] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:50.974255] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.006129] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.006209] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.036515] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.036551] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.067049] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.067073] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.098473] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.098506] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.129921] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.129956] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.161760] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.161798] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.193693] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.193730] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.225184] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.225227] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.255978] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.256017] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.289518] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.289555] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.334306] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.334343] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.364886] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.364941] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.396754] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.396777] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.427179] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.427217] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.458557] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.458582] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.489461] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.489490] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.520388] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.520424] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.551771] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.551804] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.582875] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.582900] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.613947] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.613992] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.645389] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.645425] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.676242] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.676270] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.708142] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.708166] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.739607] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.739641] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.771011] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.771047] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.802430] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.802454] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.832833] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.832856] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.864233] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.864268] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.895620] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.895647] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.927154] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.927177] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.957490] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.957520] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:51.988292] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:51.988320] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.020210] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.020247] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.050603] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.050637] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.082336] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.082355] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.113144] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.113173] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.143673] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.143697] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.174070] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.174097] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.206024] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.206068] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.236805] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.236827] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.281758] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.281783] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.312993] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.313015] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.343758] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.343787] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.374722] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.374756] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.405676] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.405715] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.437557] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.437599] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.482886] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.482911] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.514613] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.514640] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.545547] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.545575] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.577499] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.577526] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.609407] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.609430] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.640762] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.640785] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.672624] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.672655] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.703512] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.703545] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.734878] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.734908] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.766304] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.766330] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.797193] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.797218] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.828323] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.828349] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.860082] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.860113] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.891437] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.891466] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.921902] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.921931] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.952789] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.952817] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:52.983709] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:52.983739] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.014609] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.014641] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.045050] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.045075] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.089779] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.089806] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.135239] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.135266] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.166104] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.166138] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.197498] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.197528] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.228906] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.228935] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.259839] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.259860] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.291225] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.291258] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.322601] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.322633] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:53.354050] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:06:53.354090] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:06:54.070167] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:06:54.070211] [p-12256] [t-12260] [trace] WorkArea size changed
+[2024-05-04 21:06:54.070226] [p-12256] [t-12260] [info] Freeing ZonesOverlay window into pool, hWnd = 0x203fc
+[2024-05-04 21:06:54.544123] [p-12256] [t-12260] [debug] Add new work area on virtual desktop {4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:54.546959] [p-12256] [t-12260] [info] Reusing ZonesOverlay window from pool, hWnd = 0x203fc
+[2024-05-04 21:06:55.025949] [p-12256] [t-12260] [info] Initialize layout on GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, work area rect = 3840x2160
+[2024-05-04 21:06:55.060458] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.060482] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.060769] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:55.062145] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.062158] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.062558] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:55.068321] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068341] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068458] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068470] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068579] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068584] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068640] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068653] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.068856] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:55.070011] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.070022] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.070420] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:55.071436] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.071450] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.071765] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:55.072745] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.072757] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:55.073349] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.318443] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318502] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318509] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318599] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318613] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318706] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.318717] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.770416] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.770512] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.771521] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.772617] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.773418] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.774294] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.775196] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.779826] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:06:56.779858] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:06:56.779884] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:06:56.780059] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:06:56.783505] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:06:56.783541] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:06:56.788455] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.788475] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.788541] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.789508] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.789521] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.789564] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.790567] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790583] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790613] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790619] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790645] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790651] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790679] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790685] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.790743] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.791537] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.791548] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.791590] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.792325] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.792333] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.792372] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:56.793071] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.793080] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:56.793139] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.235960] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236060] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236077] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236110] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236117] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236207] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.236224] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.682822] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.682915] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.684363] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.685241] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.685969] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.686693] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.687536] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.688215] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:06:57.688225] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:06:57.688248] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:06:57.688361] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:06:57.690398] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:06:57.690415] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:06:57.694238] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.694253] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.694313] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.695184] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695194] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695233] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.695897] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695905] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695926] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695930] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695948] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695953] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695973] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.695978] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.696147] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.696859] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.696868] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.696910] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.697633] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.697646] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.697701] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:57.698415] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.698425] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:57.698482] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.142312] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142397] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142406] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142433] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142439] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142462] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.142468] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.590789] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.590878] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.591907] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.592710] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.593491] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.594180] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.594854] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:06:58.595987] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:06:58.595997] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:07:11.219302] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 21:07:11.219356] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 21:09:30.222797] [p-12256] [t-12260] [info] Get nvcplui.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:09:30.222872] [p-12256] [t-12260] [info] Get nvcplui.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:26:18.373926] [p-12256] [t-12260] [info] Get nvcplui.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:26:18.374057] [p-12256] [t-12260] [info] Get nvcplui.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:17.874931] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:45:17.874979] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:45:17.875000] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:45:17.875066] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:45:18.169112] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:45:18.169149] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:45:18.169400] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:45:18.606859] [p-12256] [t-12260] [error] Failed to get display number from WinDisc
+[2024-05-04 21:45:18.606889] [p-12256] [t-12260] [info] Retry display identification
+[2024-05-04 21:45:18.919657] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:45:19.456645] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.456671] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.456731] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.456738] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.457811] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.459237] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.459251] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.459470] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.491672] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.491698] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.492270] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.492287] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.494028] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.494037] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.494816] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.497336] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.497349] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.499408] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.500734] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.500748] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.501426] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.509080] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.509099] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.509579] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.672256] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.672280] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.672858] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.674212] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.674231] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.674355] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.674369] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.674553] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.674567] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.675141] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.677714] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.680430] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.688985] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.693428] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.695645] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.697947] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.700959] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.701111] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.701254] [p-12256] [t-12260] [error] Failed to stamp window The system cannot find the file specified.
+[2024-05-04 21:45:19.704909] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:45:19.704938] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:45:19.704964] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:45:19.705129] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:45:19.707706] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:45:19.707728] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:45:19.723469] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.723492] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.723569] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.723585] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.723720] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.725121] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.725136] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.725493] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.726805] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.726819] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.726923] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.726939] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.726968] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.726975] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.727623] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.728616] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.728635] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.728837] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.729932] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.729947] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.730272] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.731489] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.731503] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.732281] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.733458] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.733472] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.733555] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.733568] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.733662] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.733674] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.734031] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.736034] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.737594] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.739413] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.741936] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.744208] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.745409] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.747444] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.747548] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.747612] [p-12256] [t-12260] [error] Failed to stamp window The system cannot find the file specified.
+[2024-05-04 21:45:19.747791] [p-12256] [t-12260] [info] Display changed, type: DisplayChange
+[2024-05-04 21:45:19.747799] [p-12256] [t-12260] [debug] Update work areas, update windows positions: true
+[2024-05-04 21:45:19.747820] [p-12256] [t-12260] [info] Identifying monitors
+[2024-05-04 21:45:19.747926] [p-12256] [t-12260] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#5&8c45d5f&1&UID4354#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-05-04 21:45:19.750099] [p-12256] [t-12260] [info] InstanceName: DISPLAY\GSM81CD\5&8c45d5f&1&UID4354_0
+[2024-05-04 21:45:19.750122] [p-12256] [t-12260] [info] Serial number: 16843009
+[2024-05-04 21:45:19.758127] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.758147] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.758181] [p-12256] [t-12260] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.758186] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.758262] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.759161] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.759172] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.759214] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.759957] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.759965] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.760034] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.760051] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.760126] [p-12256] [t-12260] [info] Get TIDAL.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.760139] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.760376] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.761156] [p-12256] [t-12260] [info] Get Discord.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.761165] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.761250] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.762391] [p-12256] [t-12260] [info] Get steamwebhelper.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.762408] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.762564] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.763604] [p-12256] [t-12260] [info] Get Pocket Casts.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.763620] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.763708] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.764506] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764516] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764534] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764539] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764555] [p-12256] [t-12260] [info] Get thorium.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764560] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.764619] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.765519] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.766397] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.767263] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.768250] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.769031] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.769772] [p-12256] [t-12260] [info] Add app zone history, device: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-05-04 21:45:19.770817] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.770844] [p-12256] [t-12260] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-05-04 21:45:19.770859] [p-12256] [t-12260] [error] Failed to stamp window The system cannot find the file specified.
+[2024-05-04 21:45:19.771979] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:45:19.771996] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:55:58.069633] [p-12256] [t-12260] [info] Get explorer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:55:58.069667] [p-12256] [t-12260] [info] App zone history found on the work area GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:56:29.706490] [p-12256] [t-12260] [info] Get vlc.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:56:29.706570] [p-12256] [t-12260] [info] Get vlc.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:56:49.426100] [p-12256] [t-12260] [info] Get wmplayer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:56:49.426173] [p-12256] [t-12260] [info] Get wmplayer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:00.585189] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:00.585329] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:13.940004] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 21:58:13.940058] [p-12256] [t-12260] [error] Process path is empty
+[2024-05-04 21:58:44.718997] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:44.719072] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:44.720122] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:44.720171] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:45.616071] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:46.067536] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:46.973892] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:58:47.423810] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:09.727515] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:09.727629] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:10.965084] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:10.965495] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:11.967306] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:11.967388] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:12.703969] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:12.704037] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:36.046121] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:36.046372] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:36.051929] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 21:59:36.052044] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:01:10.090293] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:01:10.538894] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:01:43.755925] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:01:43.756074] [p-12256] [t-12260] [info] Get SystemSettings.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:43.155996] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:43.156168] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:44.058860] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:44.513450] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:45.411978] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:45.861695] [p-12256] [t-12260] [info] Get ApplicationFrameHost.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:45.861971] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:45.862137] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:58.023209] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:03:58.023368] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:11.927006] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:11.927130] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:18.915022] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:18.915336] [p-12256] [t-12260] [info] Get Video.UI.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:30.847156] [p-12256] [t-12260] [info] Get wmplayer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:30.847216] [p-12256] [t-12260] [info] Get wmplayer.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:38.909865] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:04:38.910003] [p-12256] [t-12260] [info] Get WinStore.App.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:05:06.587788] [p-12256] [t-12260] [info] Get mediainfo.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}
+[2024-05-04 22:05:06.587855] [p-12256] [t-12260] [info] Get mediainfo.exe zone history on work area: GSM81CD_5&8c45d5f&1&UID4354_1_16843009_{4789982C-A54B-4867-9D3B-190FC22E3F6F}

@@ -1,0 +1,48 @@
+[2024-09-28 10:54:52.528415] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 10:54:52.530799] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 10:54:52.530852] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 10:54:52.530986] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 10:54:52.715270] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 10:54:52.715329] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 10:55:03.319118] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 10:55:03.319137] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 10:55:03.319164] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 10:55:03.319345] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 10:55:03.323319] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 10:55:03.323348] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 13:52:37.490958] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 13:52:37.491004] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 13:52:37.491037] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 13:52:37.491195] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 13:52:37.615037] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 13:52:37.615077] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 13:52:42.440400] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 13:52:42.440421] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 13:52:42.440453] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 13:52:42.440818] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 13:52:42.448617] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 13:52:42.448645] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 19:59:06.494128] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 19:59:06.494174] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 19:59:06.494209] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 19:59:06.494377] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 19:59:06.670175] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 19:59:06.670211] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 19:59:41.345028] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 19:59:41.345048] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 19:59:41.345077] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 19:59:41.345305] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 19:59:41.445346] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 19:59:41.445385] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 21:36:52.521309] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 21:36:52.521351] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 21:36:52.521382] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 21:36:52.521568] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 21:36:52.668321] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 21:36:52.668353] [p-7240] [t-7244] [info] Serial number: 16843009
+[2024-09-28 21:37:00.088243] [p-7240] [t-7244] [info] Display changed, type: DisplayChange
+[2024-09-28 21:37:00.088263] [p-7240] [t-7244] [debug] Update work areas, update windows positions: true
+[2024-09-28 21:37:00.088297] [p-7240] [t-7244] [info] Identifying monitors
+[2024-09-28 21:37:00.088508] [p-7240] [t-7244] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-28 21:37:00.093108] [p-7240] [t-7244] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-28 21:37:00.093145] [p-7240] [t-7244] [info] Serial number: 16843009

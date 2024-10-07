@@ -1,0 +1,513 @@
+[2024-10-07 07:24:08.509373] [p-7964] [t-8004] [info] fancyzones logger is initialized
+[2024-10-07 07:24:08.540938] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 07:24:08.540959] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 07:24:08.542101] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 07:24:08.542210] [p-7964] [t-8004] [info] layout-templates.json file is missing or malformed
+[2024-10-07 07:24:08.542274] [p-7964] [t-8004] [info] custom-layouts.json file is missing or malformed
+[2024-10-07 07:24:08.542327] [p-7964] [t-8004] [info] layout-hotkeys.json file is missing or malformed
+[2024-10-07 07:24:08.545390] [p-7964] [t-8004] [info] default-layouts.json file is missing or malformed
+[2024-10-07 07:24:08.547043] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-07 07:24:08.547250] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 07:24:08.547906] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 07:24:08.548229] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 07:24:08.647901] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 07:24:08.664312] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 07:24:08.665127] [p-7964] [t-8004] [info] Display changed, type: Initialization
+[2024-10-07 07:24:08.665672] [p-7964] [t-8004] [debug] Update work areas, update windows positions: false
+[2024-10-07 07:24:08.666240] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 07:24:08.666443] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 07:24:08.668258] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 07:24:08.668309] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 07:24:08.668492] [p-7964] [t-8004] [trace] Monitor was added or removed
+[2024-10-07 07:24:08.668536] [p-7964] [t-8004] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-07 07:24:08.668845] [p-7964] [t-8004] [info] Creating new ZonesOverlay window, hWnd = 0x10270
+[2024-10-07 07:24:08.774778] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 07:24:20.345761] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 07:24:20.351456] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 07:24:20.352035] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 07:24:20.352380] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 07:24:20.358068] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 07:24:20.366881] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 07:24:23.386400] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 07:24:23.386471] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 07:24:23.386546] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 07:24:23.386792] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 07:24:23.398445] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 07:24:23.399569] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:14.559037] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:14.560833] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:14.561390] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:14.569968] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:14.770070] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:14.770096] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:14.770336] [p-7964] [t-8004] [trace] WorkArea size changed
+[2024-10-07 08:15:14.770721] [p-7964] [t-8004] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10270
+[2024-10-07 08:15:14.866048] [p-7964] [t-8004] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-07 08:15:14.898171] [p-7964] [t-8004] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10270
+[2024-10-07 08:15:14.987230] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 1440x480
+[2024-10-07 08:15:15.002525] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:15.002549] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:15.002584] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:15.002756] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:15.006741] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:15.006789] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:15.483284] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:15.483310] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:15.483358] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:15.483552] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:15.487462] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:15.487485] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:15.790965] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:15.790993] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:15.791026] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:15.791246] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:15.795504] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:15.795535] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:15.795788] [p-7964] [t-8004] [trace] WorkArea size changed
+[2024-10-07 08:15:15.795806] [p-7964] [t-8004] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10270
+[2024-10-07 08:15:15.889158] [p-7964] [t-8004] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-07 08:15:15.889639] [p-7964] [t-8004] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10270
+[2024-10-07 08:15:15.964593] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 08:15:16.763455] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:16.763499] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:16.763562] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:16.763765] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:16.767245] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:16.767312] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:16.767898] [p-7964] [t-8004] [trace] WorkArea size changed
+[2024-10-07 08:15:16.767927] [p-7964] [t-8004] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10270
+[2024-10-07 08:15:16.896816] [p-7964] [t-8004] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-07 08:15:16.897856] [p-7964] [t-8004] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10270
+[2024-10-07 08:15:16.950063] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 1440x480
+[2024-10-07 08:15:39.839382] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 08:15:39.839404] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 08:15:39.839459] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 08:15:39.839841] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 08:15:39.842174] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 08:15:39.842201] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 08:15:39.842503] [p-7964] [t-8004] [trace] WorkArea size changed
+[2024-10-07 08:15:39.842518] [p-7964] [t-8004] [info] Freeing ZonesOverlay window into pool, hWnd = 0x10270
+[2024-10-07 08:15:39.872913] [p-7964] [t-8004] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-07 08:15:39.873359] [p-7964] [t-8004] [info] Reusing ZonesOverlay window from pool, hWnd = 0x10270
+[2024-10-07 08:15:39.952014] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 10:20:07.081605] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 10:20:07.081753] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 10:20:07.081832] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 10:20:07.082020] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 10:20:07.206917] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 10:20:07.206947] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 10:20:11.633252] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 10:20:11.633282] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 10:20:11.633344] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 10:20:11.638049] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 10:20:11.706193] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 10:20:11.706218] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 10:20:11.802346] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 10:20:11.802365] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 10:20:11.802395] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 10:20:11.802499] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 10:20:11.804657] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 10:20:11.804681] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 13:51:44.485453] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 13:51:44.485497] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 13:51:44.485529] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 13:51:44.485682] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 13:51:44.644650] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 13:51:44.644677] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 13:51:51.264076] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 13:51:51.264097] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 13:51:51.264126] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 13:51:51.264278] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 13:51:51.335906] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 13:51:51.335928] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 16:23:10.472970] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 16:23:10.473011] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 16:23:10.473044] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 16:23:10.473218] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 16:23:10.586587] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 16:23:10.586611] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 16:23:19.246396] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 16:23:19.246418] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 16:23:19.246444] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 16:23:19.246630] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 16:23:19.351957] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 16:23:19.351978] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 17:22:38.552637] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:22:41.898488] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:22:41.899950] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:22:45.315429] [p-7964] [t-6848] [trace] Local\FancyZones-ToggleEditorEvent-1e174338-06a3-472b-874d-073b21c62f14 event was signaled
+[2024-10-07 17:22:45.315535] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Enter
+[2024-10-07 17:22:45.315615] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-07 17:22:45.315637] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 17:22:45.419873] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Exit
+[2024-10-07 17:22:56.100284] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:22:56.101258] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:23:25.529560] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:23:25.530144] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:23:29.661323] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:23:29.711252] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:23:33.760301] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:23:33.761154] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:23:34.180742] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:23:34.181373] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:23:48.138852] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:23:48.138918] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:24:40.762283] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:24:40.762379] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:24:40.770331] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:24:40.770366] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:25:23.491907] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:25:23.491969] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:33.158361] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:33.158475] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:34.340942] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:26:34.340960] [p-7964] [t-8004] [info] Set default layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:34.346124] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:26:34.348277] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:26:34.353337] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:26:34.354812] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:26:34.449172] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:26:34.450464] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:26:34.454495] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:26:34.454985] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:26:34.463079] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:26:34.463684] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:26:34.466140] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 17:26:34.466611] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 17:26:38.127272] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 17:26:38.127319] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 17:26:50.490228] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:50.490251] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:50.490441] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:50.994280] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:50.994303] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:26:52.313776] [p-7964] [t-6848] [trace] Local\FancyZones-ToggleEditorEvent-1e174338-06a3-472b-874d-073b21c62f14 event was signaled
+[2024-10-07 17:26:52.313825] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Enter
+[2024-10-07 17:26:52.313885] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-07 17:26:52.313906] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 17:26:52.324159] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Exit
+[2024-10-07 17:27:00.360309] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:27:00.364045] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:00.364169] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:00.364244] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 17:27:00.364413] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:02.431153] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:27:02.432917] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.433063] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.433125] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 17:27:02.433274] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:02.435229] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:27:02.435812] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.435851] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.435905] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 17:27:02.436044] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:02.476137] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:27:02.478805] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.479491] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.479573] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 17:27:02.479802] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:02.482651] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 17:27:02.484933] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.485050] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 17:27:02.485290] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 17:27:02.485424] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:04.274829] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:05.778795] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:07.659604] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:13.807961] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:15.526568] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:27:15.526601] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:27:16.029346] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:16.468322] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:17.132703] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:17.900952] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:19.685675] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:29.763870] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 17:27:33.253225] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:27:33.253299] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 17:27:38.280392] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:38.086806] [p-7964] [t-8004] [info] Get RadeonSoftware.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:10:38.086953] [p-7964] [t-8004] [info] Get RadeonSoftware.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:10:47.776182] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:48.978623] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:49.926525] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:51.658188] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:53.761679] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:10:53.761703] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:10:54.521578] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:54.740805] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:57.848985] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:58.710113] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:10:59.394335] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:00.777365] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:02.390058] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:03.308906] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:06.305942] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:07.279064] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:10.678676] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:11:17.814080] [p-7964] [t-6848] [trace] Local\FancyZones-ToggleEditorEvent-1e174338-06a3-472b-874d-073b21c62f14 event was signaled
+[2024-10-07 18:11:17.814897] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Enter
+[2024-10-07 18:11:17.814970] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-07 18:11:17.815002] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 18:11:17.832534] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Exit
+[2024-10-07 18:11:23.253074] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:11:23.255881] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:23.256947] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:23.257020] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:23.257071] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:23.257305] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:23.257369] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:23.257436] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:23.258805] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:23.261411] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:23.270190] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:25.508739] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:11:25.511052] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:25.512914] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:25.513295] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:25.513360] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:25.514694] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:25.515168] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:25.515241] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:25.516484] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:25.518555] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:25.519882] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:26.799824] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:28.066757] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:36.918441] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:11:36.918460] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:11:55.316848] [p-7964] [t-6848] [trace] Local\FancyZones-ToggleEditorEvent-1e174338-06a3-472b-874d-073b21c62f14 event was signaled
+[2024-10-07 18:11:55.316951] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Enter
+[2024-10-07 18:11:55.316991] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-07 18:11:55.317009] [p-7964] [t-6796] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-07 18:11:55.331202] [p-7964] [t-8004] [trace] FancyZones::ToggleEditor Exit
+[2024-10-07 18:11:58.635866] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:11:58.636824] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.639918] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.640112] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.640163] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.640456] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.640534] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.640592] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.641064] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.641994] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.642060] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.642122] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.642357] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.643217] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.644138] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:11:58.644620] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.645168] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.645187] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.645225] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.645269] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.645301] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.645318] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.645515] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.646077] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.646098] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:11:58.646158] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:11:58.646259] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:11:58.646901] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {6A936B3E-4E8A-43C1-A70D-8C086342D543}
+[2024-10-07 18:13:50.120409] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:13:50.122996] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:13:50.124200] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.124274] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.124329] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:13:50.124526] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.124579] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.124632] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:13:50.125203] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:13:50.128972] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.128987] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:13:50.128994] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:13:50.129046] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:46:03.588027] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:46:03.588078] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:46:03.588651] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:46:03.588702] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:51:07.487846] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 18:51:07.487866] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 18:51:07.487893] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 18:51:07.488059] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 18:51:07.565154] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 18:51:07.565173] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 18:51:07.583185] [p-7964] [t-8004] [info] Get Cider.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.583209] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.583369] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:07.583979] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.583990] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.584179] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:07.584861] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.584889] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.584909] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.584914] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.584953] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:07.585421] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.585453] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:07.585507] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:07.585915] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.585925] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.585933] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:07.585947] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.585952] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.585959] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:07.586090] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:07.586525] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.586554] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:07.586563] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:07.586628] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.895825] [p-7964] [t-8004] [info] Display changed, type: DisplayChange
+[2024-10-07 18:51:25.895868] [p-7964] [t-8004] [debug] Update work areas, update windows positions: true
+[2024-10-07 18:51:25.895945] [p-7964] [t-8004] [info] Identifying monitors
+[2024-10-07 18:51:25.896231] [p-7964] [t-8004] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-07 18:51:25.904039] [p-7964] [t-8004] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-07 18:51:25.904063] [p-7964] [t-8004] [info] Serial number: 16843009
+[2024-10-07 18:51:25.930910] [p-7964] [t-8004] [info] Get Cider.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.930928] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.931140] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.932136] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.932158] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.932502] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.933263] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.933394] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.933486] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.933501] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.933850] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.934499] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.934650] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:25.935077] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.939604] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.940604] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.940772] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:25.942009] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.943146] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.943611] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:25.953348] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.961287] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.962175] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:51:25.962299] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:51:25.962667] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:25.978630] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:51:25.978720] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:51:25.980356] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:51:25.980464] [p-7964] [t-8004] [error] Process path is empty
+[2024-10-07 18:51:29.692489] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:29.692523] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:29.692790] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:51:31.691590] [p-7964] [t-8004] [info] Get Discord.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:51:31.691610] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:54:43.831122] [p-7964] [t-8004] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-07 18:54:43.833300] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:43.834456] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.834536] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.834584] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:54:43.834805] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.834897] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.834960] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:54:43.835203] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.835263] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.835326] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:54:43.835511] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.835579] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.835629] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:54:43.836107] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:43.836579] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.836599] [p-7964] [t-8004] [error] SetWindowPlacement failed, Invalid window handle.
+[2024-10-07 18:54:43.836616] [p-7964] [t-8004] [error] Failed to stamp window The system cannot find the file specified.
+[2024-10-07 18:54:43.836706] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:44.864073] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:44.919210] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:45.602295] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:47.261539] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:53.715541] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:53.924755] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:56.087058] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:56.375769] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:57.199756] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:54:59.024848] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:00.067873] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:05.217211] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:07.049524] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:07.698958] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:08.393919] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:08.835205] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:11.679679] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:13.000631] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:13.949655] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:16.006639] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:17.578828] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:18.750740] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:20.197411] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:21.675832] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:22.540693] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:22.625595] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:23.628142] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:25.531743] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:28.460508] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:29.623629] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:32.702366] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:38.775248] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:43.203133] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:45.410586] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:50.475055] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:51.805887] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:52.976154] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:55:56.988881] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:00.741480] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:06.560895] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:09.518346] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:12.138566] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:14.739186] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:18.407100] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:19.346420] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:19.970497] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:21.589305] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:22.221913] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:25.428031] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:25.428055] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:26.432359] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:29.303833] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:29.303917] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:29.315507] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:29.315567] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:31.592979] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:31.593159] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:31.605644] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:31.605727] [p-7964] [t-8004] [info] Get firefox.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:33.156314] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:34.013629] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:47.070044] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:53.172344] [p-7964] [t-8004] [info] Get PowerToys.Settings.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:53.172373] [p-7964] [t-8004] [info] App zone history found on the work area GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:56:54.438452] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:56:56.472523] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:56:56.479390] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:56:56.480481] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:56:56.480996] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:56:56.482079] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:56:56.482556] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:57:04.809676] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:57:04.810974] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:57:05.921833] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:57:07.515194] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:57:08.339657] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:57:15.112228] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:57:32.383049] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:57:34.193008] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:57:34.193870] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:57:34.196916] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:57:34.197404] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:57:41.093146] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:57:41.094436] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:58:06.945397] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-07 18:58:06.947060] [p-7964] [t-8004] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-07 18:58:25.680701] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:58:28.883734] [p-7964] [t-8004] [info] Remove app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:58:29.722051] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:58:44.315724] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:58:44.315852] [p-7964] [t-8004] [info] Get explorer.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:58:55.704272] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}
+[2024-10-07 18:59:13.116172] [p-7964] [t-8004] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:59:13.116272] [p-7964] [t-8004] [info] Get WindowsTerminal.exe zone history on work area: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}
+[2024-10-07 18:59:15.467593] [p-7964] [t-8004] [info] Add app zone history, device: GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, layout: {453CB0E6-6BA8-4738-B50C-D380BB5D8B1D}

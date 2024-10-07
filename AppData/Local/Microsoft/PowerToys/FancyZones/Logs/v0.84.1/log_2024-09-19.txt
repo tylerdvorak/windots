@@ -1,0 +1,301 @@
+[2024-09-19 13:51:40.708007] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-19 13:51:40.708452] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-19 13:51:40.708491] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-19 13:51:40.708681] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 13:51:40.787063] [p-9076] [t-9080] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 13:51:40.787123] [p-9076] [t-9080] [info] Serial number: 16843009
+[2024-09-19 14:40:43.922754] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-19 14:40:43.922838] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-19 14:40:43.922892] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-19 14:40:43.923720] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.165878] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.267235] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.267276] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.325140] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.325182] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.501140] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.501182] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.635323] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.635366] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.699331] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.699363] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.798893] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.798931] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:44.878007] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:44.878044] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.045259] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.045303] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.189289] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.189333] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.331929] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.331971] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.478127] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.478164] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.531221] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.531263] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.707254] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.707291] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:45.780553] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:45.780595] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.117138] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.117178] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.325207] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.325252] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.426706] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.426825] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.473044] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.473076] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.516136] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.516171] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.547440] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.547473] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.578432] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.578467] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.609396] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.609441] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.640945] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.640989] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.671955] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.671994] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.722757] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.722793] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.835607] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.835644] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:46.954610] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:46.954649] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.260663] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.260695] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.294239] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.294265] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.325254] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.325284] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.356802] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.356823] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.388301] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.388325] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.418583] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.418608] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.558734] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.558767] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.623671] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.623702] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:47.941306] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:47.941343] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.108568] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.108610] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.156253] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.156292] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.196635] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.196680] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.276030] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.276076] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.319991] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.320032] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.351173] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.351222] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.382162] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.382193] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.413185] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.413231] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.444852] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.444898] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.478194] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.478227] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.590011] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.590058] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.634505] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.634549] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.721294] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.721338] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:48.894025] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:48.894073] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.053527] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.053570] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.238038] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.238089] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.290951] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.290990] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.387038] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.387079] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.555907] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.555950] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.832588] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.832633] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:49.899624] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:49.899663] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.113108] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.113152] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.164868] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.164911] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.196848] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.196887] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.435442] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.435477] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.477501] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.477536] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.508519] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.508554] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.540120] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.540130] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.590578] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.590618] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.706686] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.706721] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.875832] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.875872] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:50.931641] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:40:50.931684] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:40:51.296919] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#GSM81CD#1&8713bca&0&UID0#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:40:51.296971] [p-9076] [t-9080] [trace] DeviceId changed
+[2024-09-19 14:40:51.296981] [p-9076] [t-9080] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102da
+[2024-09-19 14:40:51.366667] [p-9076] [t-9080] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:40:51.366720] [p-9076] [t-9080] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102da
+[2024-09-19 14:40:51.379015] [p-9076] [t-9080] [info] Initialize layout on GSM81CD_1&8713bca&0&UID0_6__{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1080
+[2024-09-19 14:40:51.382952] [p-9076] [t-9080] [info] Set default layout on GSM81CD_1&8713bca&0&UID0_6__{00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:40:51.394343] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-19 14:40:51.394378] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-19 14:40:51.394453] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-19 14:40:51.394665] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY6 : \\?\DISPLAY#GSM81CD#1&8713bca&0&UID0#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:40:51.703403] [p-9076] [t-9080] [info] InstanceName: DISPLAY\GSM81CD\1&8713bca&0&UID0_0
+[2024-09-19 14:40:51.703448] [p-9076] [t-9080] [info] Serial number: 16843009
+[2024-09-19 14:40:51.704414] [p-9076] [t-9080] [trace] Serial number changed
+[2024-09-19 14:40:51.704451] [p-9076] [t-9080] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102da
+[2024-09-19 14:40:51.742312] [p-9076] [t-9080] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:40:51.742374] [p-9076] [t-9080] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102da
+[2024-09-19 14:40:51.748720] [p-9076] [t-9080] [info] Initialize layout on GSM81CD_1&8713bca&0&UID0_6_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 1920x1080
+[2024-09-19 14:41:02.607531] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-19 14:41:02.607558] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-19 14:41:02.607594] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-19 14:41:02.607834] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.712416] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.760361] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.760403] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.802680] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.802702] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.832918] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.832957] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.864222] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.864271] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.894722] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.894756] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.926594] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.926616] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.957133] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.957155] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:02.988555] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:02.988581] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.019977] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.020031] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.051418] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.051443] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.083275] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.083325] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.115396] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.115442] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.146904] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.146948] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.179068] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.179115] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.210953] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.210984] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.305328] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.305366] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.389195] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.389233] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.790311] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.790350] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.920314] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.920355] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:03.990638] [p-9076] [t-9080] [error] Failed to get display number from WinDisc
+[2024-09-19 14:41:03.990679] [p-9076] [t-9080] [info] Retry display identification
+[2024-09-19 14:41:04.343148] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY7 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:41:04.343193] [p-9076] [t-9080] [trace] DeviceId changed
+[2024-09-19 14:41:04.343205] [p-9076] [t-9080] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102da
+[2024-09-19 14:41:04.385907] [p-9076] [t-9080] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:41:04.385961] [p-9076] [t-9080] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102da
+[2024-09-19 14:41:09.523035] [p-9076] [t-9080] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_7__{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-09-19 14:41:09.545964] [p-9076] [t-9080] [info] Display changed, type: DisplayChange
+[2024-09-19 14:41:09.546003] [p-9076] [t-9080] [debug] Update work areas, update windows positions: true
+[2024-09-19 14:41:09.546060] [p-9076] [t-9080] [info] Identifying monitors
+[2024-09-19 14:41:09.546278] [p-9076] [t-9080] [info] Get display device for display \\.\DISPLAY7 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:41:09.550866] [p-9076] [t-9080] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 14:41:09.550902] [p-9076] [t-9080] [info] Serial number: 16843009
+[2024-09-19 14:41:09.551621] [p-9076] [t-9080] [trace] Serial number changed
+[2024-09-19 14:41:09.551654] [p-9076] [t-9080] [info] Freeing ZonesOverlay window into pool, hWnd = 0x102da
+[2024-09-19 14:41:09.634302] [p-9076] [t-9080] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:41:09.634476] [p-9076] [t-9080] [info] Reusing ZonesOverlay window from pool, hWnd = 0x102da
+[2024-09-19 14:41:09.701761] [p-9076] [t-9080] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_7_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-09-19 14:56:08.187591] [p-9712] [t-9716] [info] fancyzones logger is initialized
+[2024-09-19 14:56:08.231329] [p-9712] [t-9716] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-09-19 14:56:08.231354] [p-9712] [t-9836] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-09-19 14:56:08.231577] [p-9712] [t-9716] [warning] Failed to read from settings file
+[2024-09-19 14:56:08.245688] [p-9712] [t-9716] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-09-19 14:56:08.246022] [p-9712] [t-9716] [info] layout-templates.json file is missing or malformed
+[2024-09-19 14:56:08.246163] [p-9712] [t-9716] [info] custom-layouts.json file is missing or malformed
+[2024-09-19 14:56:08.246323] [p-9712] [t-9716] [info] layout-hotkeys.json file is missing or malformed
+[2024-09-19 14:56:08.261474] [p-9712] [t-9716] [error] app-zone-history.json file is missing or malformed
+[2024-09-19 14:56:08.261660] [p-9712] [t-9716] [info] default-layouts.json file is missing or malformed
+[2024-09-19 14:56:08.263656] [p-9712] [t-9836] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-09-19 14:56:08.263739] [p-9712] [t-9836] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-09-19 14:56:08.264846] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 14:56:08.265109] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:56:08.418487] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 14:56:08.433119] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 14:56:08.433447] [p-9712] [t-9716] [info] Display changed, type: Initialization
+[2024-09-19 14:56:08.433503] [p-9712] [t-9716] [debug] Update work areas, update windows positions: false
+[2024-09-19 14:56:08.433735] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 14:56:08.433997] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 14:56:08.435872] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 14:56:08.435935] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 14:56:08.436227] [p-9712] [t-9716] [trace] Monitor was added or removed
+[2024-09-19 14:56:08.436276] [p-9712] [t-9716] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-09-19 14:56:08.436805] [p-9712] [t-9716] [info] Creating new ZonesOverlay window, hWnd = 0x1033e
+[2024-09-19 14:56:08.590758] [p-9712] [t-9716] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-09-19 15:05:31.301837] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 15:05:31.302198] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 15:05:31.302424] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 15:05:31.302699] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 15:05:31.324169] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 15:05:31.324198] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 15:07:25.434576] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 15:07:25.434604] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 15:07:25.434640] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 15:07:25.434800] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 15:07:25.440845] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 15:07:25.440878] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 15:20:56.641758] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 15:20:56.641816] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 15:20:56.641862] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 15:20:56.642064] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 15:20:56.996291] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 15:20:56.996328] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 16:45:01.251800] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 16:45:01.251884] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 16:45:01.251956] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 16:45:01.252319] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 16:45:01.431677] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 16:45:01.431713] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 18:02:53.535106] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 18:02:53.535156] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 18:02:53.535197] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 18:02:53.535448] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 18:02:53.696822] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 18:02:53.696846] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 18:03:05.120987] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 18:03:05.121010] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 18:03:05.121048] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 18:03:05.121232] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 18:03:05.205308] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 18:03:05.205336] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 19:29:36.500289] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 19:29:36.500337] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 19:29:36.500372] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 19:29:36.500557] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 19:29:36.649787] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 19:29:36.649812] [p-9712] [t-9716] [info] Serial number: 16843009
+[2024-09-19 19:29:51.867265] [p-9712] [t-9716] [info] Display changed, type: DisplayChange
+[2024-09-19 19:29:51.867289] [p-9712] [t-9716] [debug] Update work areas, update windows positions: true
+[2024-09-19 19:29:51.867317] [p-9712] [t-9716] [info] Identifying monitors
+[2024-09-19 19:29:51.867480] [p-9712] [t-9716] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-09-19 19:29:51.939297] [p-9712] [t-9716] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-09-19 19:29:51.939315] [p-9712] [t-9716] [info] Serial number: 16843009

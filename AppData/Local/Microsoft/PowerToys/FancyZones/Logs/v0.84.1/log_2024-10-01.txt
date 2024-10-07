@@ -1,0 +1,78 @@
+[2024-10-01 07:51:07.275394] [p-6912] [t-6960] [info] fancyzones logger is initialized
+[2024-10-01 07:51:07.301618] [p-6912] [t-6960] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-01 07:51:07.301638] [p-6912] [t-6596] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-01 07:51:07.302127] [p-6912] [t-6960] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-01 07:51:07.302233] [p-6912] [t-6960] [info] layout-templates.json file is missing or malformed
+[2024-10-01 07:51:07.302293] [p-6912] [t-6960] [info] custom-layouts.json file is missing or malformed
+[2024-10-01 07:51:07.302344] [p-6912] [t-6960] [info] layout-hotkeys.json file is missing or malformed
+[2024-10-01 07:51:07.418100] [p-6912] [t-6960] [info] default-layouts.json file is missing or malformed
+[2024-10-01 07:51:07.419801] [p-6912] [t-6596] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-01 07:51:07.447257] [p-6912] [t-6596] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-01 07:51:07.449059] [p-6912] [t-6960] [info] Identifying monitors
+[2024-10-01 07:51:07.449301] [p-6912] [t-6960] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 07:51:07.557116] [p-6912] [t-6960] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 07:51:07.573448] [p-6912] [t-6960] [info] Serial number: 16843009
+[2024-10-01 07:51:07.574420] [p-6912] [t-6960] [info] Display changed, type: Initialization
+[2024-10-01 07:51:07.575066] [p-6912] [t-6960] [debug] Update work areas, update windows positions: false
+[2024-10-01 07:51:07.575529] [p-6912] [t-6960] [info] Identifying monitors
+[2024-10-01 07:51:07.576059] [p-6912] [t-6960] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 07:51:07.578255] [p-6912] [t-6960] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 07:51:07.578418] [p-6912] [t-6960] [info] Serial number: 16843009
+[2024-10-01 07:51:07.578752] [p-6912] [t-6960] [trace] Monitor was added or removed
+[2024-10-01 07:51:07.588719] [p-6912] [t-6960] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-01 07:51:07.589660] [p-6912] [t-6960] [info] Creating new ZonesOverlay window, hWnd = 0x10254
+[2024-10-01 07:51:07.716374] [p-6912] [t-6960] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-01 07:51:19.394790] [p-6912] [t-6960] [info] Display changed, type: DisplayChange
+[2024-10-01 07:51:19.394864] [p-6912] [t-6960] [debug] Update work areas, update windows positions: true
+[2024-10-01 07:51:19.394941] [p-6912] [t-6960] [info] Identifying monitors
+[2024-10-01 07:51:19.395173] [p-6912] [t-6960] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 07:51:19.399043] [p-6912] [t-6960] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 07:51:19.399106] [p-6912] [t-6960] [info] Serial number: 16843009
+[2024-10-01 08:03:11.152180] [p-6912] [t-6960] [info] Display changed, type: DisplayChange
+[2024-10-01 08:03:11.152223] [p-6912] [t-6960] [debug] Update work areas, update windows positions: true
+[2024-10-01 08:03:11.152272] [p-6912] [t-6960] [info] Identifying monitors
+[2024-10-01 08:03:11.154478] [p-6912] [t-6960] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 08:03:11.246112] [p-6912] [t-6960] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 08:03:11.246140] [p-6912] [t-6960] [info] Serial number: 16843009
+[2024-10-01 10:24:49.285825] [p-5892] [t-5388] [info] fancyzones logger is initialized
+[2024-10-01 10:24:49.326434] [p-5892] [t-5388] [trace] FancyZonesSettings::LoadSettings Enter
+[2024-10-01 10:24:49.326452] [p-5892] [t-6564] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-01 10:24:49.327260] [p-5892] [t-5388] [trace] FancyZonesSettings::LoadSettings Exit
+[2024-10-01 10:24:49.327409] [p-5892] [t-5388] [info] layout-templates.json file is missing or malformed
+[2024-10-01 10:24:49.327489] [p-5892] [t-5388] [info] custom-layouts.json file is missing or malformed
+[2024-10-01 10:24:49.327554] [p-5892] [t-5388] [info] layout-hotkeys.json file is missing or malformed
+[2024-10-01 10:24:49.328896] [p-5892] [t-5388] [info] default-layouts.json file is missing or malformed
+[2024-10-01 10:24:49.330430] [p-5892] [t-6564] [trace] OnThreadExecutor::worker_thread(loop) Exit
+[2024-10-01 10:24:49.330635] [p-5892] [t-6564] [trace] OnThreadExecutor::worker_thread(loop) Enter
+[2024-10-01 10:24:49.331928] [p-5892] [t-5388] [info] Identifying monitors
+[2024-10-01 10:24:49.332250] [p-5892] [t-5388] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 10:24:49.434331] [p-5892] [t-5388] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 10:24:49.441054] [p-5892] [t-5388] [info] Serial number: 16843009
+[2024-10-01 10:24:49.441508] [p-5892] [t-5388] [info] Display changed, type: Initialization
+[2024-10-01 10:24:49.441761] [p-5892] [t-5388] [debug] Update work areas, update windows positions: false
+[2024-10-01 10:24:49.442084] [p-5892] [t-5388] [info] Identifying monitors
+[2024-10-01 10:24:49.442470] [p-5892] [t-5388] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 10:24:49.444339] [p-5892] [t-5388] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 10:24:49.444467] [p-5892] [t-5388] [info] Serial number: 16843009
+[2024-10-01 10:24:49.444764] [p-5892] [t-5388] [trace] Monitor was added or removed
+[2024-10-01 10:24:49.444988] [p-5892] [t-5388] [debug] Add new work area on virtual desktop {00000000-0000-0000-0000-000000000000}
+[2024-10-01 10:24:49.445458] [p-5892] [t-5388] [info] Creating new ZonesOverlay window, hWnd = 0x10256
+[2024-10-01 10:24:49.522641] [p-5892] [t-5388] [info] Initialize layout on GSM81CD_7&2715251d&0&UID268_1_16843009_{00000000-0000-0000-0000-000000000000}, work area rect = 3840x2160
+[2024-10-01 10:24:59.066045] [p-5892] [t-5388] [info] Display changed, type: DisplayChange
+[2024-10-01 10:24:59.192862] [p-5892] [t-5388] [debug] Update work areas, update windows positions: true
+[2024-10-01 10:24:59.257358] [p-5892] [t-5388] [info] Identifying monitors
+[2024-10-01 10:24:59.273810] [p-5892] [t-5388] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 10:24:59.322791] [p-5892] [t-5388] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 10:24:59.335913] [p-5892] [t-5388] [info] Serial number: 16843009
+[2024-10-01 18:18:47.498688] [p-5892] [t-5388] [info] Display changed, type: DisplayChange
+[2024-10-01 18:18:47.500065] [p-5892] [t-5388] [debug] Update work areas, update windows positions: true
+[2024-10-01 18:18:47.500530] [p-5892] [t-5388] [info] Identifying monitors
+[2024-10-01 18:18:47.571686] [p-5892] [t-5388] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 18:18:47.703687] [p-5892] [t-5388] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 18:18:47.703710] [p-5892] [t-5388] [info] Serial number: 16843009
+[2024-10-01 18:18:52.308501] [p-5892] [t-5388] [info] Display changed, type: DisplayChange
+[2024-10-01 18:18:52.308522] [p-5892] [t-5388] [debug] Update work areas, update windows positions: true
+[2024-10-01 18:18:52.308550] [p-5892] [t-5388] [info] Identifying monitors
+[2024-10-01 18:18:52.308668] [p-5892] [t-5388] [info] Get display device for display \\.\DISPLAY1 : \\?\DISPLAY#GSM81CD#7&2715251d&0&UID268#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+[2024-10-01 18:18:52.378707] [p-5892] [t-5388] [info] InstanceName: DISPLAY\GSM81CD\7&2715251d&0&UID268_0
+[2024-10-01 18:18:52.378753] [p-5892] [t-5388] [info] Serial number: 16843009
