@@ -134,4 +134,8 @@ $ENV:FZF_DEFAULT_OPTS=@"
 "@
 
 #Start Oh My Posh
-oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_frappe.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/catppuccin_mocha.omp.json' | Invoke-Expression
+#f45873b3-b655-43a6-b217-97c00aa0db58 PowerToys CommandNotFound module
+
+Import-Module -Name Microsoft.WinGet.CommandNotFound
+#f45873b3-b655-43a6-b217-97c00aa0db58
